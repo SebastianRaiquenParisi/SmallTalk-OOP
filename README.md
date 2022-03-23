@@ -1,1 +1,1 @@
-# Object Oriented Programing in Smalltalk
+# Object Oriented Programming in Smalltalk
